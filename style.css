@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://news.uchicago.edu/sites/default/files/images/2022-09/earth-at-night.jpg");
+
+}
+.a4ta{
+    color:white;
+    text-align: center;
+    padding: 105px;
+
+}
+
+p{
+    text-transform: uppercase;
+}
+
+.p1, .p3{
+    font-size: 12px;
+}
+.p2{
+    font-size: 50px;
+    margin: -1px;
+}
+button{
+    background-color: rgb(240, 248, 255);
+    padding: 8px;
+    border: 3px solid white;
+    font-weight: bold;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+
+.b2{
+    color:white;
+    border-radius: 5px;
+    border-radius: 10px;
+   background-color: rgba(255,255,2550,0.3) ;
+}
